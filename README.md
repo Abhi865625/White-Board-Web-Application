@@ -12,7 +12,7 @@
 # Run development servers
 
 1. Backend:-
-  - open backend directory in terminal or cmd and type `npm run dev start` to run development server
+  - open backend directory in terminal or cmd and type `npm run dev` to run development server
   
 2. Frontend:-
   - open frontend directory in terminal or cmd and type `npm run dev` to run development server
